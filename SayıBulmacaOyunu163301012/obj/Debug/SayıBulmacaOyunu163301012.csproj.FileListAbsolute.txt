@@ -1,0 +1,20 @@
+C:\Users\furka\source\repos\SayıBulmacaOyunu163301012\SayıBulmacaOyunu163301012\bin\Debug\SayıBulmacaOyunu163301012.exe.config
+C:\Users\furka\source\repos\SayıBulmacaOyunu163301012\SayıBulmacaOyunu163301012\bin\Debug\SayıBulmacaOyunu163301012.exe
+C:\Users\furka\source\repos\SayıBulmacaOyunu163301012\SayıBulmacaOyunu163301012\bin\Debug\SayıBulmacaOyunu163301012.pdb
+C:\Users\furka\source\repos\SayıBulmacaOyunu163301012\SayıBulmacaOyunu163301012\obj\Debug\SayıBulmacaOyunu163301012.csprojAssemblyReference.cache
+C:\Users\furka\source\repos\SayıBulmacaOyunu163301012\SayıBulmacaOyunu163301012\obj\Debug\SayıBulmacaOyunu163301012.FormMain.resources
+C:\Users\furka\source\repos\SayıBulmacaOyunu163301012\SayıBulmacaOyunu163301012\obj\Debug\SayıBulmacaOyunu163301012.Properties.Resources.resources
+C:\Users\furka\source\repos\SayıBulmacaOyunu163301012\SayıBulmacaOyunu163301012\obj\Debug\SayıBulmacaOyunu163301012.csproj.GenerateResource.cache
+C:\Users\furka\source\repos\SayıBulmacaOyunu163301012\SayıBulmacaOyunu163301012\obj\Debug\SayıBulmacaOyunu163301012.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\SayıBulmacaOyunu163301012\SayıBulmacaOyunu163301012\obj\Debug\SayıBulmacaOyunu163301012.exe
+C:\Users\furka\source\repos\SayıBulmacaOyunu163301012\SayıBulmacaOyunu163301012\obj\Debug\SayıBulmacaOyunu163301012.pdb
+C:\Users\furka\source\repos\2-PROGLAMA DİLİ ÖDEVLERİ\SayıBulmacaOyunu163301012\SayıBulmacaOyunu163301012\bin\Debug\SayıBulmacaOyunu163301012.exe.config
+C:\Users\furka\source\repos\2-PROGLAMA DİLİ ÖDEVLERİ\SayıBulmacaOyunu163301012\SayıBulmacaOyunu163301012\bin\Debug\SayıBulmacaOyunu163301012.exe
+C:\Users\furka\source\repos\2-PROGLAMA DİLİ ÖDEVLERİ\SayıBulmacaOyunu163301012\SayıBulmacaOyunu163301012\bin\Debug\SayıBulmacaOyunu163301012.pdb
+C:\Users\furka\source\repos\2-PROGLAMA DİLİ ÖDEVLERİ\SayıBulmacaOyunu163301012\SayıBulmacaOyunu163301012\obj\Debug\SayıBulmacaOyunu163301012.csprojAssemblyReference.cache
+C:\Users\furka\source\repos\2-PROGLAMA DİLİ ÖDEVLERİ\SayıBulmacaOyunu163301012\SayıBulmacaOyunu163301012\obj\Debug\SayıBulmacaOyunu163301012.FormMain.resources
+C:\Users\furka\source\repos\2-PROGLAMA DİLİ ÖDEVLERİ\SayıBulmacaOyunu163301012\SayıBulmacaOyunu163301012\obj\Debug\SayıBulmacaOyunu163301012.Properties.Resources.resources
+C:\Users\furka\source\repos\2-PROGLAMA DİLİ ÖDEVLERİ\SayıBulmacaOyunu163301012\SayıBulmacaOyunu163301012\obj\Debug\SayıBulmacaOyunu163301012.csproj.GenerateResource.cache
+C:\Users\furka\source\repos\2-PROGLAMA DİLİ ÖDEVLERİ\SayıBulmacaOyunu163301012\SayıBulmacaOyunu163301012\obj\Debug\SayıBulmacaOyunu163301012.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\2-PROGLAMA DİLİ ÖDEVLERİ\SayıBulmacaOyunu163301012\SayıBulmacaOyunu163301012\obj\Debug\SayıBulmacaOyunu163301012.exe
+C:\Users\furka\source\repos\2-PROGLAMA DİLİ ÖDEVLERİ\SayıBulmacaOyunu163301012\SayıBulmacaOyunu163301012\obj\Debug\SayıBulmacaOyunu163301012.pdb
